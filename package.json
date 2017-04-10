@@ -1,0 +1,27 @@
+{
+  "name": "wp-con-clase",
+  "title": "WP con clase",
+  "description": "Wordpress con clase theme",
+  "version": "0.1.0",
+  "homepage": "http://tecnologeria.com",
+  "author": {
+    "name": "Pablo Trinidad",
+    "email": "hola@tecnologeria.com",
+    "url": "http://pablotrinidad.es"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-sass": "~0.8.0",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "matchdep": "~0.1.2"
+  },
+  "keywords": [],
+  "dependencies": {
+    "matchdep": "^0.1.2"
+  }
+}

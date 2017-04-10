@@ -1,0 +1,1 @@
+# wp-con-clase-theme
